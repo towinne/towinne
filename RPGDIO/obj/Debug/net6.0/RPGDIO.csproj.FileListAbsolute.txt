@@ -1,0 +1,15 @@
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\bin\Debug\net6.0\RPGDIO.exe
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\bin\Debug\net6.0\RPGDIO.deps.json
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\bin\Debug\net6.0\RPGDIO.runtimeconfig.json
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\bin\Debug\net6.0\RPGDIO.dll
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\bin\Debug\net6.0\RPGDIO.pdb
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.AssemblyInfo.cs
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.dll
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\refint\RPGDIO.dll
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.pdb
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\RPGDIO.genruntimeconfig.cache
+C:\Users\felip\Desktop\Sayuri\DIORPGDESAFIO\RPGDIO\obj\Debug\net6.0\ref\RPGDIO.dll
